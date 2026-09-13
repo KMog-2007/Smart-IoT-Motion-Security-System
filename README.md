@@ -179,17 +179,5 @@ https://wokwi.com/projects/475056725824574465
 **K Moganaa**
 
 Electronics and Communication Engineering Student
-
-## ⭐ Project Status
-
-**Completed — Basic Motion Detection System**
-
-**IoT Extension — Implemented/Under Development**
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
-
-
     ↓
 Return to monitoring mode
