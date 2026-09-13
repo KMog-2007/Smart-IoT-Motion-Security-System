@@ -103,8 +103,9 @@ Turn OFF LED
     ↓
 Turn OFF buzzer
 This allows the system to respond automatically without requiring manual intervention.
+---
 
-##🌐 IoT Web Monitoring
+**##🌐 IoT Web Monitoring**
 
 The ESP32 is connected to Wi-Fi and operates as a simple HTTP web server.
 
